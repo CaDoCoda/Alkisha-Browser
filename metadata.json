@@ -1,0 +1,6 @@
+{
+  "name": "Synapse Browser",
+  "description": "A dual-engine AI synthesis browser that simultaneously queries Gemini Search (Primary) and Microsoft Copilot Search (Secondary) to extract, cross-verify, and distill the highest-value information without switching engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

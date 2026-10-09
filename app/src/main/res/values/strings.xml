@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Synapse Browser</string>
+    <string name="omnibox_placeholder">Search both Gemini &amp; Copilot or enter URL…</string>
+    <string name="primary_engine_label">Primary: Gemini Search</string>
+    <string name="secondary_engine_label">Secondary: Copilot Search</string>
+    <string name="primary_url_template_default">https://gemini.google.com/search?q=%s</string>
+    <string name="secondary_url_template_default">https://copilot.microsoft.com/search?q=%s</string>
+    <string name="mode_best_value">Unified Best Value</string>
+    <string name="mode_dual_live">Dual Live Streams</string>
+    <string name="mode_web_reader">Browser Reader</string>
+    <string name="nav_discover">Synthesize</string>
+    <string name="nav_streams">Dual Live</string>
+    <string name="nav_vault">Saved Vault</string>
+    <string name="nav_engines">Engines</string>
+    <string name="btn_search_go">Fuse &amp; Search</string>
+    <string name="btn_bookmark">Save to Vault</string>
+    <string name="btn_speak">Listen to Brief</string>
+    <string name="btn_copy">Copy Synthesis</string>
+    <string name="btn_share">Share Brief</string>
+    <string name="btn_resynthesize">Re-Arbitrate</string>
+    <string name="section_best_value_brief">Distilled High-Value Intelligence</string>
+    <string name="section_value_arbitration">Why This Information Was Selected</string>
+    <string name="section_key_takeaways">Verified High-Value Takeaways</string>
+    <string name="section_stream_comparison">Primary (Gemini) vs. Secondary (Copilot) Stream Delta</string>
+    <string name="section_citations">Collected Source Links &amp; Direct Citations</string>
+    <string name="section_followup">Deep-Dive Follow-Up Queries</string>
+    <string name="security_prototype_notice">Prototype Notice: Uses direct Gemini API key via BuildConfig for synthesis arbitration.</string>
+</resources>
